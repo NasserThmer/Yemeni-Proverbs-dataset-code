@@ -1,0 +1,11 @@
+transformers
+datasets
+sentence-transformers
+rouge-score
+rouge
+nltk
+bert-score
+sacrebleu
+pandas
+tqdm
+torch
