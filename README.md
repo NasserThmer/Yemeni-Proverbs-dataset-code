@@ -111,4 +111,4 @@ This repository supports a submission to *Scientific Data* (Nature), in the “T
 ## 📬 Contact
 
 For questions or contributions:
-- Nasser Saleh — nasser@example.com
+- Nasser Saleh — nasserthmer1992@gmail.com
